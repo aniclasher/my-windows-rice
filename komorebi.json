@@ -6,9 +6,9 @@
   "default_workspace_padding": 3,
   "default_container_padding": 3,
   "border": true,
-  "border_width": 5,
+  "border_width": 4,
   "border_offset": -1,
-  "border_implementation":"Windows",
+  "border_implementation":"komorebi",
   "border_style":"System",
   "border_colours": {
     "single":"#b277a3",
@@ -65,3 +65,4 @@
     }
   ]
 }
+
